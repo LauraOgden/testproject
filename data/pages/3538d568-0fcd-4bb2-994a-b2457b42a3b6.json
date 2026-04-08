@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-04-08T10:39:22.382Z",
+  "created_by": "LauraOgden",
+  "title": "Event1",
+  "slug": "event1",
+  "updated_at": "2026-04-08T10:39:22.382Z",
+  "updated_by": "LauraOgden",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "4a186d69-8907-4977-a689-86fb5f3fb9a7"
+  }
+}
